@@ -1,7 +1,7 @@
 import qrcode
 
 # Data to encode
-data = "https://www.twitch.tv/pipluptiny"
+data = "#"
 
 # Create a QR code object
 qr = qrcode.QRCode(
